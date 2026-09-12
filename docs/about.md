@@ -62,4 +62,4 @@ The project does not claim that OASYS modifies model weights, gives an LLM liter
 
 Public Core v1 should be interpreted as a tested and formally frozen Public configuration whose claims remain bounded by its published architecture, formal validation evidence, recorded portfolio evidence, and stated limitations.
 
-For the personal story behind why OASYS was built, see `WHY-I-BUILT-OASYS.md`.
+For the personal story behind why OASYS was built, see [WHY-I-BUILT-OASYS.md](./WHY-I-BUILT-OASYS.md).
