@@ -434,6 +434,6 @@ The frozen canonical authorities remain the source of truth for actual governed 
 
 For detailed information:
 
--Operation guidance: Public Core Quickstart and applicable canonical protocols.
-- Package composition and authority relationships: Manifest.
-- Validation evidence: Validation record.
+- **Operation guidance:** [Public Core Quickstart](../public-core-v1/PUBLIC-CORE-v1-QUICKSTART.md) and applicable canonical protocols.
+- **Package composition and authority relationships:** [Manifest](../public-core-v1/PUBLIC-CORE-v1-MANIFEST.md).
+- **Validation evidence:** [Validation record](../public-core-v1/PUBLIC-CORE-v1-VALIDATION.md).
