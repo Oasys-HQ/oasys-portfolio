@@ -434,13 +434,15 @@ LLM behavior may vary across:
 The evidence for this scenario consists of:
 
 - the continuous Scenario 5 raw recording;
-- **Scenario 5 — Project Atlas Public Execution State**;
+- [Scenario 5 --- Project Atlas Public Execution State](./project-atlas-public-execution-state.md);
 - the live Round 1 prompt and response;
 - the live Round 2 prompt and response;
 - the live Round 3 prompt and response;
 - the post-failure exploratory prompts and responses;
 - the preserved adjudication: **COMPLETE / FAIL at Round 3**.
 
-**Recording/publication location:** pending Step 10 publication-path finalization.
+**Recording:** pending media-publication decision.
 
-No final media URL or repository path is asserted on this page until that publication location is finalized.
+No final recording/media URL is asserted on this page until the media-publication decision is finalized.
+
+**Evidence index:** [Recorded Evidence](../README.md)
