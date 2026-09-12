@@ -67,7 +67,7 @@ The validated runtimes:
 
 Primary formal evidence:
 
-**PUBLIC-CORE-v1-VALIDATION**
+[PUBLIC-CORE-v1-VALIDATION](../public-core-v1/PUBLIC-CORE-v1-VALIDATION.md)
 
 # 2. Governed Synchronization
 
@@ -116,7 +116,7 @@ The relied-upon executions demonstrated that:
 
 Primary formal evidence:
 
-**PUBLIC-CORE-v1-VALIDATION**
+[PUBLIC-CORE-v1-VALIDATION](../public-core-v1/PUBLIC-CORE-v1-VALIDATION.md)
 
 ### Validation Defect History — PCV1-R02
 
@@ -124,7 +124,7 @@ R02 initially failed twice because of defects in the validation fixture/procedur
 
 Both failures were preserved, the harness was corrected, and a new clean rerun passed.
 
-The final clean rerun is the relied-upon R02 result; the complete defect and rerun history remains documented in **PUBLIC-CORE-v1-VALIDATION**.
+The final clean rerun is the relied-upon R02 result; the complete defect and rerun history remains documented in [PUBLIC-CORE-v1-VALIDATION](../public-core-v1/PUBLIC-CORE-v1-VALIDATION.md).
 
 # 3. C-Log Authority Semantics
 
@@ -160,7 +160,7 @@ The validated runtimes demonstrated that:
 
 Primary formal evidence:
 
-**PUBLIC-CORE-v1-VALIDATION**
+[PUBLIC-CORE-v1-VALIDATION](../public-core-v1/PUBLIC-CORE-v1-VALIDATION.md)
 
 # 4. Non-Inference & Fail-Closed Behavior
 
@@ -220,7 +220,7 @@ That result does not rewrite the N05 result. It identifies a narrower observed l
 
 Primary formal evidence:
 
-**PUBLIC-CORE-v1-VALIDATION**
+[PUBLIC-CORE-v1-VALIDATION](../public-core-v1/PUBLIC-CORE-v1-VALIDATION.md)
 
 # 5. Package Usability & Operation-Specific Loading
 
@@ -296,7 +296,7 @@ No undocumented Greywolf/Nova/Anchor rescue was required.
 
 Primary formal evidence:
 
-**PUBLIC-CORE-v1-VALIDATION**
+[PUBLIC-CORE-v1-VALIDATION](../public-core-v1/PUBLIC-CORE-v1-VALIDATION.md)
 
 # 6. Recorded Portfolio Demonstrations
 
@@ -391,7 +391,7 @@ The failure does not establish that OASYS broadly fails under pressure, and it d
 
 Formal Step 5 validation claims on this page are traceable to:
 
-**PUBLIC-CORE-v1-VALIDATION**
+[PUBLIC-CORE-v1-VALIDATION](../public-core-v1/PUBLIC-CORE-v1-VALIDATION.md)
 
 That frozen document records:
 
@@ -406,7 +406,9 @@ The later Scenario 1–5 summaries are a separate portfolio evidence layer based
 
 They are not part of the frozen Step 5 Validation record.
 
-Dedicated Scenario 1–5 pages will provide the full prompts, context, PASS/FAIL boundaries, results, and evidence references once those pages and publication locations are finalized during Step 10.
+Dedicated Scenario 1--5 pages now provide the full prompts, context, PASS/FAIL boundaries, results, and evidence references.
+
+See [Recorded Evidence](../evidence/README.md).
 
 # Portfolio Evidence vs Frozen Release
 
