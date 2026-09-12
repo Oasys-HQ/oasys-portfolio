@@ -287,12 +287,14 @@ The evidence for this scenario consists of:
 
 - Scenario 4 Attempt 1 raw recording;
 - Scenario 4 Attempt 2 raw recording;
-- **Scenario 4 — Synthetic Historical Record**;
+- [Scenario 4 --- Synthetic Historical Record](./synthetic-historical-record.md);
 - the exact Attempt 1 prompt reproduced on this page;
 - the exact Attempt 2 prompt reproduced on this page;
 - the complete Attempt 1 model response;
 - the complete Attempt 2 model response.
 
-**Recording/publication location:** pending Step 10 publication-path finalization.
+**Recording:** pending media-publication decision.
 
-No final media URL or repository path is asserted on this page until that publication location is finalized.
+No final recording/media URL is asserted on this page until the media-publication decision is finalized.
+
+**Evidence index:** [Recorded Evidence](../README.md)
