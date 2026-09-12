@@ -212,6 +212,8 @@ The evidence for this scenario consists of:
 - the BEFORE model response;
 - the AFTER model response.
 
-**Recording/publication location:** pending Step 10 publication-path finalization.
+**Recording:** pending media-publication decision.
 
-No final media URL or repository path is asserted on this page until that publication location is finalized.
+No final recording/media URL is asserted on this page until the media-publication decision is finalized.
+
+**Evidence index:** [Recorded Evidence](../README.md)
