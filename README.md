@@ -4,7 +4,7 @@ OASYS is a document-centric control system for LLM-assisted execution built arou
 
 The public implementation represented in this repository is Public Core v1, a formally frozen configuration validated in clean third-party contexts.
 
-New to OASYS? Start here → START-HERE.md
+New to OASYS? Start here → [START-HERE.md](START-HERE.md)
 
 ## Problem
 
@@ -146,10 +146,10 @@ This root README is the high-level entry point to the portfolio.
 
 For the frozen Public Core v1 package itself, use the package documentation for detail:
 
-- Public Core v1 package README --- package explanation and orientation
-- PUBLIC-CORE-v1-MANIFEST --- exact package contents, authority roles, capability boundary, and loading relationships
-- PUBLIC-CORE-v1-QUICKSTART --- practical operation guidance
-- PUBLIC-CORE-v1-VALIDATION --- formal validation scope, PASS/FAIL results, preserved defects, corrections, and reruns
+- [Public Core v1 package README](public-core-v1/README.md) --- package explanation and orientation
+- [PUBLIC-CORE-v1-MANIFEST](public-core-v1/PUBLIC-CORE-v1-MANIFEST.md) --- exact package contents, authority roles, capability boundary, and loading relationships
+- [PUBLIC-CORE-v1-QUICKSTART](public-core-v1/PUBLIC-CORE-v1-QUICKSTART.md) --- practical operation guidance
+- [PUBLIC-CORE-v1-VALIDATION](public-core-v1/PUBLIC-CORE-v1-VALIDATION.md) --- formal validation scope, PASS/FAIL results, preserved defects, corrections, and reruns
 
 The canonical runtime authorities remain controlling over explanatory portfolio documentation.
 
