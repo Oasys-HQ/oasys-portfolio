@@ -285,11 +285,13 @@ Do **not** perform Synchronization as part of the Scenario 3 reproduction.
 The evidence for this scenario consists of:
 
 - the Scenario 3 recording covering Context A and the genuinely fresh Context B;
-- **Scenario 3 — Project Cedar Public Execution State**;
+- [Scenario 3 --- Project Cedar Public Execution State](./project-cedar-public-execution-state.md);
 - the Context A confirmation prompt and output;
 - the four mandatory Public Core Reconstruction documents;
 - the Context B Reconstruction prompt and output.
 
-**Recording/publication location:** pending Step 10 publication-path finalization.
+**Recording:** pending media-publication decision.
 
-No final media URL or repository path is asserted on this page until that publication location is finalized.
+No final recording/media URL is asserted on this page until the media-publication decision is finalized.
+
+**Evidence index:** [Recorded Evidence](../README.md)
