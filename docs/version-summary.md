@@ -168,11 +168,11 @@ Historical v2.4.x material is therefore not current Public Core behavioral evide
 
 Current formal validation evidence belongs to:
 
-**PUBLIC-CORE-v1-VALIDATION**
+[PUBLIC-CORE-v1-VALIDATION](../public-core-v1/PUBLIC-CORE-v1-VALIDATION.md)
 
 The broader portfolio evidence summary, including the later recorded Scenario evidence, belongs to:
 
-**Proof of Behavior**
+[Proof of Behavior](./proof-of-behavior.md)
 
 Those evidence documents address what the frozen Public Core v1 actually demonstrated and what later recorded demonstrations additionally showed.
 
