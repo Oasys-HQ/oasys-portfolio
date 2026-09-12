@@ -232,11 +232,11 @@ The point is traceability --- not logging every interaction.
 
 If you want to use the full frozen OASYS logging model, follow the C-Log Standard and its trigger rules.
 
-→ **OASYS --- C-Log Standard v2.0**
+→ [OASYS --- C-Log Standard v2.0](public-core-v1/oasys-c-log-standard-v2.0.md)
 
 For exact Public Core loading and operating instructions:
 
-→ **`PUBLIC-CORE-v1-QUICKSTART`**
+→ [PUBLIC-CORE-v1-QUICKSTART](public-core-v1/PUBLIC-CORE-v1-QUICKSTART.md)
 
 ---
 
@@ -428,11 +428,11 @@ The validation applies to the frozen configuration that was actually tested.
 
 For an easy-to-read summary of what Public Core demonstrated:
 
-→ **Proof of Behavior**
+→ [Proof of Behavior](docs/proof-of-behavior.md)
 
 For the formal validation record, including PASS/FAIL results, preserved defects, and reruns:
 
-→ **`PUBLIC-CORE-v1-VALIDATION`**
+→ [PUBLIC-CORE-v1-VALIDATION](public-core-v1/PUBLIC-CORE-v1-VALIDATION.md)
 
 ---
 
@@ -449,7 +449,7 @@ OASYS does **not**:
 
 For the fuller boundary:
 
-→ **Limitations & Boundaries**
+→ [Limitations & Boundaries](docs/limitations-and-boundaries.md)
 
 ---
 
@@ -457,47 +457,47 @@ For the fuller boundary:
 
 ### Want to understand the architecture?
 
-→ **System Overview**
+→ [System Overview](docs/system-overview.md)
 
 ### Want to understand the main mechanisms?
 
-→ **Key Mechanisms**
+→ [Key Mechanisms](docs/key-mechanisms.md)
 
 ### Want to see an example workflow?
 
-→ **Example Workflow**
+→ [Example Workflow](docs/example-workflow.md)
 
 ### Want an easy-to-read summary of what Public Core demonstrated?
 
-→ **Proof of Behavior**
+→ [Proof of Behavior](docs/proof-of-behavior.md)
 
 ### Want the formal validation record, including PASS/FAIL results, preserved defects, and reruns?
 
-→ **`PUBLIC-CORE-v1-VALIDATION`**
+→ [PUBLIC-CORE-v1-VALIDATION](public-core-v1/PUBLIC-CORE-v1-VALIDATION.md)
 
 ### Want to understand the frozen Public Core package?
 
-→ **Public Core package README**
+→ [Public Core package README](public-core-v1/README.md)
 
 ### Want the exact list of files that belong to the frozen release?
 
-→ **`PUBLIC-CORE-v1-MANIFEST`**
+→ [PUBLIC-CORE-v1-MANIFEST](public-core-v1/PUBLIC-CORE-v1-MANIFEST.md)
 
 ### Want the exact operational procedure?
 
-→ **`PUBLIC-CORE-v1-QUICKSTART`**
+→ [PUBLIC-CORE-v1-QUICKSTART](public-core-v1/PUBLIC-CORE-v1-QUICKSTART.md)
 
 ### Want to understand C-Logs and when they are used?
 
-→ **OASYS --- C-Log Standard v2.0**
+→ [OASYS --- C-Log Standard v2.0](public-core-v1/oasys-c-log-standard-v2.0.md)
 
 ### Want the limitations and evidence boundaries?
 
-→ **Limitations & Boundaries**
+→ [Limitations & Boundaries](docs/limitations-and-boundaries.md)
 
 ### Want the personal story behind why OASYS exists?
 
-→ **`WHY-I-BUILT-OASYS.md`**
+→ [WHY-I-BUILT-OASYS.md](docs/WHY-I-BUILT-OASYS.md)
 
 ---
 
