@@ -154,3 +154,9 @@ For the frozen Public Core v1 package itself, use the package documentation for 
 The canonical runtime authorities remain controlling over explanatory portfolio documentation.
 
 OASYS is intended to make LLM-assisted work more controlled and traceable under ambiguity by replacing hidden assumptions with explicit authority, documented state, and fail-closed execution boundaries.
+
+## License
+
+The exact 10 frozen files under [`public-core-v1/`](public-core-v1/) are licensed by Greywolf under the [Creative Commons Attribution–NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+This license does not apply to other material in this repository.
