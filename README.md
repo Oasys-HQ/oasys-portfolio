@@ -94,6 +94,8 @@ Validation defects were not hidden or rewritten into a clean-history narrative. 
 
 The result supports the behavior demonstrated by the controlled suite. It does not establish universal correctness or eliminate all possible model error.
 
+**Tested environments:** See [Tested Environments](docs/tested-environments.md) for the current model/platform test record.
+
 Separate supplemental evidence also preserved a bounded Scenario 5 failure under live Operator-delegation pressure: the model resolved an A/B decision after being delegated the choice even though the documented state required an explicit Operator selection. That result remains a known limitation and future robustness target; no correction is claimed here.
 
 This does not change the formal Step 5 validation result or Gate 9 baseline.
