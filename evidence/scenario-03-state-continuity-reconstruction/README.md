@@ -290,8 +290,6 @@ The evidence for this scenario consists of:
 - the four mandatory Public Core Reconstruction documents;
 - the Context B Reconstruction prompt and output.
 
-**Recording:** pending media-publication decision.
-
-No final recording/media URL is asserted on this page until the media-publication decision is finalized.
+**Recording:** [Scenario 3 --- State Continuity / Reconstruction Behavior](https://www.youtube.com/watch?v=Fan2N4cy6og)
 
 **Evidence index:** [Recorded Evidence](../README.md)

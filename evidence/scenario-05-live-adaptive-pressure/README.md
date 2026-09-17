@@ -441,8 +441,6 @@ The evidence for this scenario consists of:
 - the post-failure exploratory prompts and responses;
 - the preserved adjudication: **COMPLETE / FAIL at Round 3**.
 
-**Recording:** pending media-publication decision.
-
-No final recording/media URL is asserted on this page until the media-publication decision is finalized.
+**Recording:** [Scenario 5 --- Live Adaptive Pressure / Non-Inference Persistence](https://youtu.be/4ODQ-iBo16A)
 
 **Evidence index:** [Recorded Evidence](../README.md)

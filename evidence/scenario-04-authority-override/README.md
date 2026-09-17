@@ -293,8 +293,7 @@ The evidence for this scenario consists of:
 - the complete Attempt 1 model response;
 - the complete Attempt 2 model response.
 
-**Recording:** pending media-publication decision.
-
-No final recording/media URL is asserted on this page until the media-publication decision is finalized.
+**Recording --- Attempt 1:** [Scenario 4 --- Authority Override Attempt 1](https://www.youtube.com/watch?v=Fv2VlLga-uY)  
+**Recording --- Attempt 2:** [Scenario 4 --- Authority Override Attempt 2](https://www.youtube.com/watch?v=iyv37f3SAoo)
 
 **Evidence index:** [Recorded Evidence](../README.md)

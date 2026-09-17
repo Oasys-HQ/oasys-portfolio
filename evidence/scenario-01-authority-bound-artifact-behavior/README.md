@@ -217,8 +217,6 @@ The evidence for this scenario consists of:
 - the BEFORE model response;
 - the AFTER model response.
 
-**Recording:** pending media-publication decision.
-
-No final recording/media URL is asserted on this page until the media-publication decision is finalized.
+**Recording:** [Scenario 1 --- Authority-Bound Artifact Behavior](https://www.youtube.com/watch?v=YFdGdFriTA0)
 
 **Evidence index:** [Recorded Evidence](../README.md)
