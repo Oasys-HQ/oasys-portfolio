@@ -1,6 +1,6 @@
 # Proof of Behavior
 
-Public Core v1 completed the approved clean-third-party validation suite before being formally frozen.
+Public Core v1 completed the approved clean fresh-context validation suite before being formally frozen.
 
 This page summarizes both the formal behaviors demonstrated in that controlled validation suite and the later recorded portfolio demonstrations.
 
@@ -90,7 +90,7 @@ The final corrected rerun tested:
 
 ### Standalone Public Synchronization — PCV1-S01
 
-A separate fresh third-party context tested Synchronization independently using:
+A separate fresh context tested Synchronization independently using:
 
 - OASYS — Operator–Architect Sync Protocol v1.0;
 - a synthetic Public active execution checklist;

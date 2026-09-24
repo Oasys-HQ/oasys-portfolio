@@ -82,7 +82,7 @@ These are architecture and governance properties, not claims of universal model 
 
 The reconciled Public configuration was subsequently prepared as Public Core v1.
 
-Before freeze, it completed the approved clean-third-party validation suite covering the required Public operations and authority boundaries, including:
+Before freeze, it completed the approved clean fresh-context validation suite covering the required Public operations and authority boundaries, including:
 
 - Initialization;
 - Reconstruction;

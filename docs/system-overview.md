@@ -426,7 +426,7 @@ It does not:
 - guarantee universal correctness;
 - eliminate all possible model error.
 
-Controlled clean-third-party validation supports the behaviors demonstrated by the tested Public Core v1 configuration.
+Controlled clean fresh-context validation supports the behaviors demonstrated by the tested Public Core v1 configuration.
 
 Those results are evidence for the tested architecture and failure conditions, not a claim that every model in every environment will always behave identically.
 

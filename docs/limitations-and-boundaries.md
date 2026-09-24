@@ -1,14 +1,20 @@
 # Limitations & Boundaries
 
-Public Core v1 is a formally frozen Public configuration of OASYS that successfully completed its approved clean-third-party validation suite.
+Public Core v1 is a formally frozen Public configuration of OASYS that successfully completed its approved clean fresh-context validation suite.
 
 That result is meaningful, but bounded.
 
 This document defines what the frozen Public Core v1 evidence does not establish, what remains outside the Public release, and how far portfolio claims should reasonably be interpreted.
 
+## Validation Terminology
+
+In this portfolio, the historical term **“clean-third-party validation”** refers to validation conducted in genuinely fresh model contexts without prior Greywolf/OASYS state or hidden rescue context. It does not mean validation by an independent external company, auditor, institution, or human third party.
+
+Current non-frozen portfolio documentation uses **“clean fresh-context validation”** for the same validation design. Frozen Public Core v1 artifacts preserve the historical terminology unchanged.
+
 ## Scope of Validation
 
-Public Core v1 was tested through the required clean-third-party validation families, including:
+Public Core v1 was tested through the required clean fresh-context validation families, including:
 
 - Initialization;
 - Reconstruction;
@@ -120,7 +126,7 @@ It is a boundary of the architecture being evaluated.
 
 ## Production / Generalization Boundary
 
-Public Core v1 successfully completed the approved clean-third-party validation suite and was formally frozen as the exact tested configuration.
+Public Core v1 successfully completed the approved clean fresh-context validation suite and was formally frozen as the exact tested configuration.
 
 That does not establish production-scale deployment validation.
 

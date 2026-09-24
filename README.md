@@ -2,7 +2,7 @@
 
 OASYS is a document-centric control system for LLM-assisted execution built around explicit authority, documented state, bounded operations, Non-Inference, and fail-closed behavior.
 
-The public implementation represented in this repository is Public Core v1, a formally frozen configuration validated in clean third-party contexts.
+The public implementation represented in this repository is Public Core v1, a formally frozen configuration that completed clean fresh-context validation.
 
 New to OASYS? Start here → [START-HERE.md](START-HERE.md)
 
@@ -76,7 +76,7 @@ OASYS does not use a “load everything” model. Runtime material is loaded acc
 
 ## Validation
 
-Public Core v1 completed the approved clean-third-party validation suite before freeze.
+Public Core v1 completed the approved clean fresh-context validation suite before freeze.
 
 Validation covered:
 

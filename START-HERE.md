@@ -408,7 +408,7 @@ If you materially change the configuration, test the configuration you actually 
 
 Yes.
 
-Public Core v1 completed the approved **clean-third-party validation suite**, and the tested configuration was then formally frozen.
+Public Core v1 completed the approved **clean fresh-context validation suite**, and the tested configuration was then formally frozen.
 
 That validation covered the required Public operations and authority boundaries.
 
