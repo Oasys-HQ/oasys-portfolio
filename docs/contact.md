@@ -1,15 +1,25 @@
-Contact
+# Contact
 
-If GitHub Discussions is enabled for this repository, it can be used for questions about:
-clarification of documented behavior;
-interpretation of published evidence;
-governed LLM-assisted execution and related OASYS concepts.
+## Public project questions
 
+For public OASYS project questions, use [GitHub Discussions](https://github.com/Oasys-HQ/oasys-portfolio/discussions).
 
-For professional inquiries, I’m open to conversations about LLM-assisted systems, reliability, governance, and evaluation, including:
-technical discussion;
-collaboration;
-role opportunities.
+GitHub Discussions may be used for:
 
+- clarification of documented behavior;
+- discussion of published evidence;
+- questions about governed LLM-assisted execution and related published OASYS concepts.
 
-Discussion of the published Public Core is welcome; Private or otherwise non-public OASYS material remains outside the public repository.
+Discussion of the published Public Core is welcome. Private or otherwise non-public OASYS material remains outside the public repository.
+
+## Professional / private inquiries
+
+For professional or private inquiries, contact:
+
+[greywolf.oasys@proton.me](mailto:greywolf.oasys@proton.me)
+
+This contact route may be used for:
+
+- technical discussion;
+- collaboration;
+- role opportunities.
