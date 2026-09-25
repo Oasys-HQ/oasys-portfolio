@@ -1,6 +1,6 @@
 # OASYS --- Operator--Architect System
 
-OASYS is a document-centric control system for LLM-assisted execution built around explicit authority, documented state, bounded operations, Non-Inference, and fail-closed behavior.
+OASYS is a document-centric governance and control architecture for LLM-assisted execution built around explicit authority, documented state, bounded operations, Non-Inference, and fail-closed behavior.
 
 The public implementation represented in this repository is Public Core v1, a formally frozen configuration that completed clean fresh-context validation.
 

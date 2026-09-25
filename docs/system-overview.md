@@ -14,6 +14,20 @@ Where an operation depends on missing, contradictory, or ambiguous authority, OA
 
 This System Overview is explanatory portfolio documentation. It does not create or override OASYS authority. Applicable canonical Public Core v1 artifacts remain controlling.
 
+## Terminology Boundary
+
+OASYS uses architectural terms such as **cognitive operating system**, **control system**, **runtime**, **enforcement**, and **deterministic reconstruction** in a document-governed LLM context.
+
+**Cognitive operating system** is an architectural label for the multi-document coordination and governance model. It does not mean that OASYS is a conventional computer operating system or a standalone software or model runtime.
+
+**Control system** refers to document-governed control of authority, state, scope, and execution rules that are interpreted and applied through the LLM. It does not mean that OASYS operates as a separate deterministic policy-enforcement engine independently of the model.
+
+**Deterministic reconstruction** refers to the specified, document-grounded reconstruction procedure and the required authority relationships between its inputs. It does not mean that probabilistic model output is deterministic or that model compliance is guaranteed.
+
+**Runtime** and **enforcement** terminology refers, as applicable, to the active LLM execution context, applicable authority artifacts, required checks, and Operator / Architect governance mechanisms. It does not imply a separate OASYS runtime or a mechanically infallible enforcement layer.
+
+These clarifications explain the terminology used by the architecture; they do not alter the canonical Public Core v1 artifacts or their semantics.
+
 ## Document-Driven Architecture
 
 OASYS separates authoritative system information from ordinary conversational context.
