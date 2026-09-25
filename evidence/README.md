@@ -12,7 +12,7 @@ OASYS uses two distinct evidence layers.
 
 ### Formal Step 5 validation
 
-The formal clean fresh-context validation suite tested the frozen Public Core v1 configuration before freeze.
+The formal clean fresh-context validation suite tested the Public Core v1 configuration that was subsequently frozen.
 
 Its formal evidence record is:
 

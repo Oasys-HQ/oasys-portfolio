@@ -119,6 +119,14 @@ The frozen Public Core v1 release consists of exactly:
 3. **PUBLIC-CORE-v1-QUICKSTART**
 4. **PUBLIC-CORE-v1-VALIDATION**
 
+### Preserved lifecycle wording
+
+The four supporting documents above preserve the lifecycle wording present in the exact package used during validation. Some therefore describe Public Core v1 as a candidate, validation as in progress, Gate 5 as pending, or the package as not yet frozen. Those statements were historically accurate at the stage recorded by those copies, but they are not the current lifecycle status.
+
+After the required validation and closure sequence completed, the exact tested package was formally frozen without retroactively rewriting those supporting copies. Current non-frozen portfolio documentation records the subsequent lifecycle state.
+
+This clarification describes the chronology only; it does not claim that any additional Gate 5 or closure artifact is published in this repository.
+
 Portfolio explanations, evidence pages, recordings, demonstrations, and other portfolio-facing material do not become members of that frozen release merely because they are published alongside it.
 
 ### Public capability boundary
