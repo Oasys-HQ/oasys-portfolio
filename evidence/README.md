@@ -143,6 +143,17 @@ Reproduction does not imply that another model or later product version must pro
 
 LLM outputs may vary across models, modes, product revisions, and execution environments.
 
+## Future post-release evidence
+
+Future evidence should continue the existing recording + dedicated evidence-page method.
+
+- Record the execution date and exposed platform, user-visible model, and visible mode/reasoning configuration once; do not infer hidden backend/build identity.
+- Where useful, briefly show the relevant visible model/mode/context state in the recording.
+- Identify existing OASYS inputs by exact repository path plus a fixed approved tag or commit rather than duplicating their contents.
+- Preserve on the evidence page only the prompts, decisive model wording, execution facts, limitations, or unusual events materially needed to understand and adjudicate the result.
+
+Whole-chat transcripts, duplicate raw-output files, hashes, and generic deviation/contamination fields are not required by default.
+
 ## Evidence interpretation boundary
 
 The five recorded scenarios support only their own bounded claims.
