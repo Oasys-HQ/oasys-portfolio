@@ -52,6 +52,11 @@ No formal PASS label is assigned to Scenario 1.
 **Scenario page:** [Scenario 1 --- Authority-Bound Artifact Behavior](./scenario-01-authority-bound-artifact-behavior/README.md)  
 **Recording:** [Scenario 1 --- Authority-Bound Artifact Behavior](https://www.youtube.com/watch?v=YFdGdFriTA0)
 
+A later clean paired replication repeated the same Scenario 1 prompt in two independent fresh contexts, removing the original same-chat conversational-carryover variable while preserving the historical three-artifact OASYS setup.
+
+**Supplemental evidence:** [Scenario 1 Clean Paired Replication](./scenario-01-authority-bound-artifact-behavior/clean-paired-replication.md)  
+**Replication recording:** [scenario 01 authority bound artifact behavior clean paired replication](https://www.youtube.com/watch?v=i3-BQP6iyMY)
+
 ### Scenario 2 — Ambiguity / Rule-Completion Behavior
 
 Before OASYS, the raw model selected **staged rollout** even though the rollout method was explicitly unresolved.
