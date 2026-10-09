@@ -68,6 +68,11 @@ No formal PASS label is assigned to Scenario 2.
 **Scenario page:** [Scenario 2 --- Ambiguity / Rule-Completion Behavior](./scenario-02-ambiguity-rule-completion/README.md)  
 **Recording:** [Scenario 2 --- Ambiguity / Rule-Completion Behavior](https://www.youtube.com/watch?v=n6vEARjlPNU)
 
+A later clean paired replication repeated the same Scenario 2 prompt in two independent fresh contexts, removing the original same-chat conversational carryover while preserving the historical three-artifact OASYS setup.
+
+**Supplemental evidence:** [Scenario 2 Clean Paired Replication](./scenario-02-ambiguity-rule-completion/clean-paired-replication.md)  
+**Replication recording:** [scenario 02 ambiguity rule completion behavior clean paired replication](https://www.youtube.com/watch?v=S3ejSQIDME0)
+
 ### Scenario 3 — State Continuity / Reconstruction Behavior
 
 A genuinely fresh context reconstructed the documented Project Cedar execution state using the applicable Public Reconstruction materials.
