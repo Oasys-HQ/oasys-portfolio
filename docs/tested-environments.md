@@ -19,7 +19,3 @@ OASYS is intended for LLM-assisted execution generally, but that architectural i
 Additional environments will be added to this page only after applicable testing has actually been performed.
 
 Any later environment entry must identify the applicable test or evidence basis sufficiently to support the claim.
-
-This revision preserves the original ChatGPT validation history, adds the actual completed Claude testing scope, and replaces the now-outdated ChatGPT-only boundary.
-It does not classify the entire Public Core as validated on Claude.
-Future Claude scenarios will extend this single environment inventory when their actual execution and evidence are established.
