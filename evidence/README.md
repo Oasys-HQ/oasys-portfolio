@@ -73,6 +73,11 @@ A later clean paired replication repeated the same Scenario 2 prompt in two inde
 **Supplemental evidence:** [Scenario 2 Clean Paired Replication](./scenario-02-ambiguity-rule-completion/clean-paired-replication.md)  
 **Replication recording:** [scenario 02 ambiguity rule completion behavior clean paired replication](https://www.youtube.com/watch?v=S3ejSQIDME0)
 
+A later Claude Opus 5.5 High comparison repeated the historical Scenario 2 prompt in independent Incognito contexts. The result was accepted with qualification because the No-OASYS context included native clarification interactions and Docs generation, limiting strict clean-pair comparability.
+
+**Claude supplemental evidence:** [Scenario 2 Claude Exploratory Comparison](./scenario-02-ambiguity-rule-completion/claude-exploratory-comparison.md)  
+**Claude recording:** [scenario 02 ambiguity rule completion behavior claude exploratory comparison](https://youtu.be/IZpnuQO5oGg)
+
 ### Scenario 3 — State Continuity / Reconstruction Behavior
 
 A genuinely fresh context reconstructed the documented Project Cedar execution state using the applicable Public Reconstruction materials.
