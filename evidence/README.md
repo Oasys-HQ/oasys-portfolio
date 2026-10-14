@@ -57,6 +57,11 @@ A later clean paired replication repeated the same Scenario 1 prompt in two inde
 **Supplemental evidence:** [Scenario 1 Clean Paired Replication](./scenario-01-authority-bound-artifact-behavior/clean-paired-replication.md)  
 **Replication recording:** [scenario 01 authority bound artifact behavior clean paired replication](https://www.youtube.com/watch?v=i3-BQP6iyMY)
 
+A later Claude Opus 5.5 High clean paired comparison repeated the historical Scenario 1 authority-bound artifact request in two independent fresh Incognito contexts. Without OASYS, Claude produced a purported real C-Log using its own structure while acknowledging missing governing information. With the historical three-artifact OASYS setup, Claude refused because C-Log Standard v2.0 was unavailable.
+
+**Claude supplemental evidence:** [Scenario 1 Claude Clean Paired Replication](./scenario-01-authority-bound-artifact-behavior/claude-clean-paired-replication.md)  
+**Claude recording:** [scenario 01 authority bound artifact behavior claude clean paired replication](https://youtu.be/4D3WtnbZyFg)
+
 ### Scenario 2 — Ambiguity / Rule-Completion Behavior
 
 Before OASYS, the raw model selected **staged rollout** even though the rollout method was explicitly unresolved.
